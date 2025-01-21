@@ -45,13 +45,12 @@ body {
 .logos {
     display: flex;
     flex-direction: row;
-    gap: 15px;
+    gap: 9px;
     justify-content: center;
     width: 208px;
-
     height: 30px;
     align-items: center;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 .logo img {
@@ -61,8 +60,8 @@ body {
 
 .logo_name {
     font-weight: 500;
-    font-size: 24px;
-    line-height: 31px;
+    font-size: 22px;
+    line-height: 25px;
 }
 
 .info h2 {
@@ -181,6 +180,7 @@ input::placeholder {
 .btn {
     background-color: #F57463;
     cursor: pointer;
+    transition: all 0.5s;
 }
 
 .btn:hover {
