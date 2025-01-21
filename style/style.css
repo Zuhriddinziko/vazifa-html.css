@@ -60,7 +60,7 @@ body {
 }
 
 .logo_name {
-    font-weight: 700;
+    font-weight: 500;
     font-size: 24px;
     line-height: 31px;
 }
@@ -68,7 +68,7 @@ body {
 .info h2 {
     align-items: center;
     text-align: center;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 36px;
     line-height: 40px;
     width: 881px;
@@ -80,8 +80,8 @@ body {
     align-items: center;
     text-align: center;
     font-weight: 500;
-    font-size: 18px;
-    line-height: 28px;
+    font-size: 17px;
+    line-height: 20px;
     width: 891px;
     color: #D1D0D5;
     margin-bottom: 35px;
@@ -145,8 +145,8 @@ body {
 .drog {
     opacity: 0.5;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 21px;
+    font-size: 16px;
+    line-height: 18px;
 }
 
 .info_file {
