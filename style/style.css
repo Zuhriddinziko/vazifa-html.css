@@ -13,16 +13,17 @@ body {
 
 .container {
     width: 85vw;
+    height: 90hv;
     margin: 0 auto;
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    padding-top: 200px;
+    /* padding-top: 200px; */
 }
 
 .big_container {
-    padding-top: 52px;
+    /* padding-top: 52px; */
     height: 100%;
 }
 
@@ -42,14 +43,14 @@ body {
     gap: 15px;
     justify-content: center;
     width: 208px;
-    height: 40px;
+    height: 30px;
     align-items: flex-end;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .logo img {
-    width: 50px;
-    height: 50px;
+    width: 20px;
+    height: 20px;
 }
 
 .logo_name {
@@ -87,10 +88,10 @@ body {
 }
 
 .yuklash {
-    height: 190px;
+    height: 150px;
     width: 460px;
     display: flex;
-    margin-bottom: 24px;
+    /* margin-bottom: 24px; */
     flex-direction: column;
     gap: 12px;
 }
