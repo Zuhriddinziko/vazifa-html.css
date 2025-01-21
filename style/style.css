@@ -63,8 +63,8 @@ body {
     align-items: center;
     text-align: center;
     font-weight: 800;
-    font-size: 40px;
-    line-height: 50px;
+    font-size: 36px;
+    line-height: 40px;
     width: 891px;
     margin-bottom: 15px;
     initial-letter: 0.1px;
@@ -98,8 +98,8 @@ body {
 
 .fileName {
     font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
+    font-size: 17px;
+    line-height: 20px;
     initial-letter: 0.5px;
     text-align: start;
 
@@ -107,7 +107,7 @@ body {
 
 .fileYuklashDIv {
     background-color: #8784a540;
-    height: 90px;
+    height: 70px;
     width: 460px;
     border-radius: 12px;
     padding: 10px;
@@ -158,10 +158,11 @@ body {
 .inputName {
     width: 460px;
     background-color: #8784a540;
-    padding: 10px;
+    padding: 5px;
+    padding-left: 15px;
     margin-top: 12px;
     margin-bottom: 24px;
-    height: 54px;
+    height: 30px;
     border-radius: 12px;
     border: 1px solid #8784A5;
 
