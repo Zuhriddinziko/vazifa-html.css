@@ -24,6 +24,10 @@ body {
 
 .big_container {
     /* padding-top: 52px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     height: 100%;
 }
 
@@ -43,8 +47,9 @@ body {
     gap: 15px;
     justify-content: center;
     width: 208px;
+
     height: 30px;
-    align-items: flex-end;
+    align-items: center;
     margin-bottom: 20px;
 }
 
@@ -62,10 +67,10 @@ body {
 .info h2 {
     align-items: center;
     text-align: center;
-    font-weight: 800;
+    font-weight: 700;
     font-size: 36px;
     line-height: 40px;
-    width: 891px;
+    width: 881px;
     margin-bottom: 15px;
     initial-letter: 0.1px;
 }
@@ -74,7 +79,7 @@ body {
     align-items: center;
     text-align: center;
     font-weight: 500;
-    font-size: 24px;
+    font-size: 18px;
     line-height: 28px;
     width: 891px;
     opacity: 0.5;
@@ -159,11 +164,11 @@ body {
     width: 460px;
     background-color: #8784a540;
     padding: 5px;
-    padding-left: 15px;
+    padding-left: 11px;
     margin-top: 12px;
-    margin-bottom: 24px;
-    height: 30px;
-    border-radius: 12px;
+    margin-bottom: 15px;
+    height: 35px;
+    border-radius: 7px;
     border: 1px solid #8784A5;
 
 }
