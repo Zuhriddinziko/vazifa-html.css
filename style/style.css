@@ -97,9 +97,9 @@ body {
     height: 150px;
     width: 460px;
     display: flex;
-    /* margin-bottom: 24px; */
+    margin-bottom: 24px;
     flex-direction: column;
-    gap: 12px;
+    gap: 5px;
 }
 
 .fileName {
@@ -113,7 +113,7 @@ body {
 
 .fileYuklashDIv {
     background-color: #8784a540;
-    height: 70px;
+    height: 110px;
     width: 460px;
     border-radius: 12px;
     padding: 10px;
@@ -166,8 +166,8 @@ body {
     background-color: #8784a540;
     padding: 5px;
     padding-left: 11px;
-    margin-top: 12px;
-    margin-bottom: 15px;
+    margin-top: 5px;
+    margin-bottom: 10px;
     height: 35px;
     border-radius: 7px;
     border: 1px solid #8784A5;
